@@ -1,5 +1,43 @@
-## Hi there 👋
+## Hi there 👋, I am OPlin.
+### WELCOME ✨
 
+- ✍️ Currently located in Shenzhen, pursuing a Bachelor’s degree in Computer Science at Shenzhen Technology University.
+- 🌱 Interested in: Deep Learning, Computer Vision, 🤖 Robotics Engineering.
+- 💬 Hobbies: Many interests, such as using VPS ☁️Servers from different regions, 🎮 gaming, 🚗 road trips, 📷 photography, 🎵 music, and more...
+- 🎯 Aspiration: To become a full-stack robotics engineer, integrating mechanics, machine vision, and large language models (LLMs).
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+### Language ⚡ 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+
+
+### Learning 🧠 
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
+
+
+### Platform 🧰 & IDE 🔧 
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+![CLion](https://img.shields.io/badge/CLion-000000?&style=flat-square&logo=CLion&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+
+
+
+
+
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RubiaCx" /> </div> -->
 <!--
 **OPlincn/OPlincn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
