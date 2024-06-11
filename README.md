@@ -1,15 +1,11 @@
 ## Hi there 👋, I am OPlin.
-### WELCOME ✨
-
-- ✍️ Currently located in Shenzhen, pursuing a Bachelor’s degree in Computer Science at Shenzhen Technology University.
+### WELCOME TO MY GITHUB! ✨
+About Me
+- ✍️ Currently located in Shenzhen, China, pursuing a Bachelor’s degree in Computer Science at Shenzhen Technology University.
 - 🌱 Interested in: Deep Learning, Computer Vision, 🤖 Robotics Engineering.
 - 💬 Hobbies: Many interests, such as using VPS ☁️Servers from different regions, 🎮 gaming, 🚗 road trips, 📷 photography, 🎵 music, and more...
+- 🚀 I am a new BGP Player with my own ASN [200789](https://www.peeringdb.com/net/34801). Feel free to peer with me!
 - 🎯 Aspiration: To become a full-stack robotics engineer, integrating mechanics, machine vision, and large language models (LLMs).
-
-<p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
 
 ### Language ⚡ 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -34,10 +30,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
 
+<br>
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
 
 
 
-<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RubiaCx" /> </div> -->
 <!--
 **OPlincn/OPlincn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
