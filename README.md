@@ -36,7 +36,7 @@ About Me
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPlincn&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
-![](https://github.com/OPlincn/OPlincn/blob/output/github-snake.gif?raw=true)
+![](https://github.com/OPlincn/OPlincn/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 
 <!--
