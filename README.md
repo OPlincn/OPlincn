@@ -2,7 +2,7 @@
 ### WELCOME TO MY GITHUB! ✨
 About Me
 - ✍️ Currently located in Shenzhen, China, pursuing a Bachelor’s degree in Computer Science at Shenzhen Technology University.
-- 🌱 Interested in: Deep Learning, Computer Vision, 🤖 Robotics Engineering.
+- 🌱 Interested in: Deep Learning, Computer Vision, 🤖 Robotics Engineering, Embedded AI.
 - 💬 Hobbies: Many interests, such as using VPS ☁️Servers from different regions, 🎮 gaming, 🚗 road trips, 📷 photography, 🎵 music, and more...
 - 🚀 I am a new BGP Player with my own ASN [200789](https://www.peeringdb.com/net/34801). Feel free to peer with me!
 - 🎯 Aspiration: To become a full-stack robotics engineer, integrating mechanics, machine vision, and large language models (LLMs).
