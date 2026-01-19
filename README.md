@@ -1,7 +1,7 @@
 ## Hi there 👋, I am OPlin.
 ### WELCOME TO MY GITHUB! ✨
 About Me
-- ✍️ Currently located in Shenzhen, China, pursuing a Bachelor’s degree in Computer Science at Shenzhen Technology University.
+- ✍️ Currently pursuing a B.S. in CS at Shenzhen Technology University (SZTU) 🔜 Incoming MPhil student at HKUST(GZ).
 - 🌱 Interested in: Deep Learning, Computer Vision, 🤖 Robotics Engineering, Embedded AI.
 - 💬 Hobbies: Many interests, such as using VPS ☁️Servers from different regions, 🎮 gaming, 🚗 road trips, 📷 photography, 🎵 music, and more...
 - 🚀 I am a new BGP Player with my own ASN [200789](https://www.peeringdb.com/net/34801). Feel free to peer with me!
